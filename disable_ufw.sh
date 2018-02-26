@@ -1,1 +1,2 @@
+#!/bin/bas
 ufw disable
